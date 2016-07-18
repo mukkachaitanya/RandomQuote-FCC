@@ -1,0 +1,27 @@
+body{
+  background-color : #FF5964;
+}
+
+#quote_box{
+  background-color : white ;
+  margin : 6em 3em auto 3em;
+}
+
+.content{
+  color: #FF5964;
+  margin: 1em 1.5em 1em;
+}
+
+#button_quotes{
+  
+  padding-top : 3em;
+}
+
+footer{
+  margin-top: 5em;
+  color: white;
+}
+
+#quote{
+  font-family: Montserrat;
+}
